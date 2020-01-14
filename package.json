@@ -1,0 +1,20 @@
+{
+  "name": "node-goejson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.5",
+    "node-geocoder": "^3.27.0",
+    "nodemon": "^2.0.4"
+  }
+}
